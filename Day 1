@@ -1,0 +1,39 @@
+# 📔 Learning Log: Week 1 – Mastering the Four Pillars
+
+## 🗓 Date: December 2025
+**Goal:** Transitioning into IT through Prompt Engineering.
+**Status:** Completed Foundations of Structured Prompting.
+
+---
+
+## 🔑 Key Concepts Mastered
+
+### 1. Persona Assignment
+I learned that an AI needs a "Role" to set the correct tone and expertise level.
+* *Example:* "You are a Senior Customer Experience Engineer."
+
+### 2. Delimiters (The "Boxes")
+I practiced using XML-style tags and triple quotes to separate my instructions from the raw data. This prevents the AI from getting confused.
+* *Syntax:* `<customer_email> [Text] </customer_email>`
+
+### 3. Few-Shot Prompting
+I discovered that providing 1–2 examples of a "Perfect Answer" drastically increases the consistency of the AI's output.
+
+### 4. Chain of Thought (The "Secret Sauce")
+By using the phrase **"Let's think step by step,"** I learned how to force the AI to show its logic, making it much more accurate for complex tasks like travel itineraries or budgeting.
+
+---
+
+## 🛠 Project: The Travel & Support Automator
+This week, I built a prompt that handles:
+1. **Sentiment Analysis** (Detecting if a customer is angry/happy).
+2. **Data Extraction** (Pulling dates and budgets from travel notes).
+3. **Constraint Management** (Keeping replies under a strict 18-word limit).
+
+## 🚀 Next Steps
+* Begin deep-dive into **[LearnPrompting.org](https://learnprompting.org)** modules.
+* Explore **Prompt Chaining** (linking multiple prompts together).
+* Start documenting "Failures" to show how I troubleshoot AI hallucinations.
+
+---
+*“Today I moved from talking to AI to programming it with structure.”*
