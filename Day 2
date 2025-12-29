@@ -1,0 +1,42 @@
+📔 Learning Log: Week 1 – Day 2: Prompt Chaining & Data Extraction
+
+Date: December 2025
+
+Goal: Transitioning from single-prompt tasks to multi-step AI workflows.
+
+🔑 Key Concepts Mastered
+1. Data Extraction (The "Cleaner")
+
+I learned how to use a Technical Researcher persona to strip away "noise" from raw text (like news articles) and extract only the essential facts (Problems, Demographics, Solutions).
+
+Impact: This makes the data ready for professional analysis without the AI getting distracted by extra words.
+
+2. Prompt Chaining
+
+Instead of asking the AI to do everything at once, I learned to break tasks into a "Chain."
+
+Step A: Clean and extract data.
+
+Step B: Use that specific data to generate creative solutions.
+
+Why: This prevents "hallucinations" and significantly increases the quality of the final output.
+
+3. Contextual Reasoning
+
+I combined Chain of Thought ("Think step by step") with Prompt Chaining to ensure that new ideas are logically tied to the original problem and the target audience.
+
+🛠 Project: The "Sleep Tourism" Case Study
+I successfully built a two-step chain:
+
+Prompt A: Extracted core problems (stress/sleep deprivation) and demographics (executives/parents) from a travel article.
+
+Prompt B: Used that data to invent a "Bio-Acoustic Sleep Pod" for home use, proving that AI can bridge the gap between a trend and a new product idea.
+
+🚀 Next Steps
+Learn Negative Constraints (preventing the AI from making specific mistakes).
+
+Explore "Temperature" and Parameter Settings (controlling AI creativity).
+
+Update GitHub repository with these chained prompt templates.
+
+"One big prompt is a conversation; two small prompts are a system."
